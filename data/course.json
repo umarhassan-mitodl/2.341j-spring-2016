@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Molecular Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ]
+  ],
+  "legacy_uid": "f2890de5-ddd6-b2a9-6104-1bb0caf6447a",
+  "instructors": {
+    "content": [
+      "63706b98-cb36-55b5-af42-0bdef1e626e9",
+      "a4033b5f-8392-6efd-db1c-537675f67e25"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d1ce1427-4cf9-22b8-b3f8-d09c99e78bea",
+    "website": "2-341j-macromolecular-hydrodynamics-spring-2016"
+  },
+  "course_title": "Macromolecular Hydrodynamics",
+  "course_description": "The topics cover physical phenomena in polymeric liquids undergoing deformation and flow; kinematics and material functions for complex fluids; techniques of viscometry, rheometry; and linear viscoelastic measurements for polymeric fluids. Also, generalized Newtonian fluids; continuum mechnanics, frame invariance, and convected derivatives for finite strain viscoelasticity; differential and integral constitutive equations for viscoelastic fluids; analytical solutions to isothermal and non-isothermal flow problems; the roles of non-Newtonian viscosity, linear viscoelasticity, normal stresses, elastic recoil, stress relaxation in processing flows; and introduction to molecular theories for dynamics of polymeric fluids. (Extensive class project and presentation required instead of a final exam).\n",
+  "department_numbers": [
+    "2",
+    "10"
+  ],
+  "extra_course_numbers": "10.531J",
+  "primary_course_number": "2.341J",
+  "course_image_thumbnail": {
+    "content": "513b3a74-60e7-2b44-4e53-44d61012688d",
+    "website": "2-341j-macromolecular-hydrodynamics-spring-2016"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "7d23d27e-2f33-4617-b721-64174a44c764",
+  "site_short_id": "2.341j-spring-2016",
+  "site_url_path": "courses/2-341j-macromolecular-hydrodynamics-spring-2016",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 1ad6f589-af3e-2b7c-02d8-67176b6e9aaa
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 36750b55-3f43-6c5a-7bf6-e427b48724ba
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 7e774e56-748c-6c0f-6286-b55ba1caa657
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: 729e0f5b-eded-f64b-8b9b-e0105fb0d2c7
+  name: Homework
+  pageRef: /pages/homework
+  weight: 40
+- identifier: c67f4fbd-9d80-1d4b-6a2b-e13859ce029d
+  name: Practice Exams
+  pageRef: /pages/practice-exams
+  weight: 50
+- identifier: 9da9ae3e-e519-1a1d-d32b-61f165bfe6d7
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 60
