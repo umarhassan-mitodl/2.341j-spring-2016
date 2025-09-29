@@ -2,6 +2,8 @@
 content_type: page
 description: This page provides course notes for the MIT course 2.341 Macromolecular
   Hydrodynamics of Spring 2016, taught by Prof. Gareth McKinley.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

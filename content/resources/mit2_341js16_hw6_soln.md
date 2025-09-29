@@ -5,6 +5,8 @@ description: 'This resource contains information regarding macromolecular hydrod
 file: /courses/2-341j-macromolecular-hydrodynamics-spring-2016/e24151592ae59c383466faefc3775151_MIT2_341JS16_Hw6_Soln.pdf
 file_size: 913873
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
