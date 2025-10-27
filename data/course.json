@@ -34,7 +34,6 @@
     "website": "2-341j-macromolecular-hydrodynamics-spring-2016"
   },
   "course_title": "Macromolecular Hydrodynamics",
-  "hide_download": true,
   "course_description": "The topics cover physical phenomena in polymeric liquids undergoing deformation and flow; kinematics and material functions for complex fluids; techniques of viscometry, rheometry; and linear viscoelastic measurements for polymeric fluids. Also, generalized Newtonian fluids; continuum mechnanics, frame invariance, and convected derivatives for finite strain viscoelasticity; differential and integral constitutive equations for viscoelastic fluids; analytical solutions to isothermal and non-isothermal flow problems; the roles of non-Newtonian viscosity, linear viscoelasticity, normal stresses, elastic recoil, stress relaxation in processing flows; and introduction to molecular theories for dynamics of polymeric fluids. (Extensive class project and presentation required instead of a final exam).\n",
   "department_numbers": [
     "2",
@@ -46,7 +45,6 @@
     "content": "513b3a74-60e7-2b44-4e53-44d61012688d",
     "website": "2-341j-macromolecular-hydrodynamics-spring-2016"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",

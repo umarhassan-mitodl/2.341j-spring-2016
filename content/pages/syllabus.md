@@ -2,8 +2,6 @@
 content_type: page
 description: This page provides course policy for the MIT course 2.341 Macromolecular
   Hydrodynamics of Spring 2016, taught by Prof. Gareth McKinley.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -51,7 +49,7 @@ Walters, K. _Rheometry_. Chapman and Hall, 1975. ISBN: 9780412120909.
 
 Probstein, R. F. _Physicochemical Hydrodynamics: An Introduction_. 2nd ed. Wiley-Interscience, 1994. ISBN: 9780471010111.
 
-Ferry, J. D. _Viscoelastic Properties of Polymers_. 3rd ed. Wiley, 1980. ISBN: 9780471048947. \[Preview with [Google Books](http://books.google.com/books?id=9dqQY3Ujsx4C&pg=PAfrontcover)\]
+Ferry, J. D. _Viscoelastic Properties of Polymers_. 3rd ed. Wiley, 1980. ISBN: 9780471048947. \[Preview with {{% resource_link "b579a3a0-39dd-45dc-b4d5-af82254510a8" "Google Books" %}}\]
 
 Homework
 --------
@@ -61,7 +59,7 @@ Homework will be handed out through the semester. The purpose of these is to hel
 Special Projects
 ----------------
 
-Each student in the course will be asked to do a special project (projects chosen to match students research interests) which might, for example, consist of critiquing and / or extending an article in one of the standard rheology journals—_[Journal of Rheology](http://sor.scitation.org/journal/jor), [Journal of Non-Newtonian Fluid Mechanics](https://www.journals.elsevier.com/journal-of-non-newtonian-fluid-mechanics), [Rheologica Acta](https://link.springer.com/journal/397), [Soft Matter](http://pubs.rsc.org/en/journals/journalissues/sm#!recentarticles&adv)_.
+Each student in the course will be asked to do a special project (projects chosen to match students research interests) which might, for example, consist of critiquing and / or extending an article in one of the standard rheology journals—_{{% resource_link "f7694591-ce74-4f91-9254-557a57565dc8" "Journal of Rheology" %}}, {{% resource_link "79bd072f-cb4f-45f2-a6f0-40ac3c377c37" "Journal of Non-Newtonian Fluid Mechanics" %}}, {{% resource_link "f1cbf15d-066f-44f2-85e7-5968f467c67f" "Rheologica Acta" %}}, {{% resource_link "315f48de-3b34-49e5-a2f9-44a0521d1609" "Soft Matter" %}}_.
 
 In addition there will be a short (10min) in-class presentation in the last two sessions.
 
